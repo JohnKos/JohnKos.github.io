@@ -22,11 +22,11 @@ repository               : "JohnKos.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpeg"
-  name             : ""
+  name             : "John Kos"
   pronouns         : # example: "she/her"  
-  bio              : "Engaging in Meta Metacognition"
+  bio              : "PhD of Computer Science @ Desining Intelligence Lab"
   location         : "Atlanta GA"
-  employer         : "Designing Intelligence Lab @ GATECH"
+  employer         : "Georiga Institute of Technology"
   uri              : # URL
   email            : "johnkos01@gmail.com" 
 
