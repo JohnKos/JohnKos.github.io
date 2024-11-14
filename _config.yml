@@ -24,10 +24,10 @@ author:
   avatar           : "profile.jpeg"
   name             : "John Kos"
   pronouns         : # example: "she/her"  
-  bio              : "PhD of Computer Science @ Desining Intelligence Lab"
+  bio              : "PhD of Computer Science @ Design Intelligence Lab"
   location         : "Atlanta GA"
   employer         : "Georiga Institute of Technology"
-  uri              : # URL
+  uri              : "https://dilab.gatech.edu/"
   email            : "johnkos01@gmail.com" 
 
   # Academic websites
