@@ -1,49 +1,114 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "CV for John Kos"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+A downloadable version of my CV can be found [here](/files/John_Kos_Resume.pdf)
 
-A data-driven personal website
+Summary
+========
+
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+Current
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- PhD in Computer Science @ Georgia Tech, Atlanta, GA
 
-Create content & metadata
+Past
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- Masters in Computer Science @ Georgia Tech, Atlanta, GA
+- Bachelors in Computer Science @ University of Maryland College Park, College Park, MD
 
-**Markdown generator**
+Work Experience
+=======
+Graduate Student Researcher - Design Intelligence Lab
+-------
+- Managed a team of 10+ student researchers to code, review, and deploy personalized coaches for an interactive learning environment
+- Developed the design for five experiments to study user interaction within educational software
+- Dockerized the existing application to minimize onboarding time
+- Created a Flask Server architecture to streamline the deployment of in software coaches
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Junior Development Operations - Power Auctions
+-------
+- Developed an AWS environment used in $4,000,000,000 Federal Government auction
+- Made 200+ commits to a Ruby on Rails backend that used AWS and docker for automated software deployment
+- Set up CI/CD pipeline in Gitlab to automate QA testing scripts
+- Assembled ELK stack to manage 2,000,000 logs from development and production environments
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Papers
+=======
+[A Constructivist Framing of Wheel Spinning: Identifying Unproductive Behaviors with Sequence Analysis](https://link.springer.com/chapter/10.1007/978-3-031-63028-6_14)
+-------
+Published at Intelligent Tutoring Systems 2024
+Abstract: Despite the increasing prevalence of inquiry-based learning (IBL) platforms, IBL research still has many open questions in constructivist contexts, such as when to offer help. In this paper, we explore wheel spinning in an open-domain inquiry-based modeling platform. We establish why closed-domain conceptions of wheel spinning do not work well in open domains, and we postulate key features of a working characterization of wheel spinning for an open-domain IBL platform. We also present a comparative quasi-experimental study of two groups of learners: While both groups worked with the same publicly available IBL platform called VERA, one group used VERA in a large graduate class at Georgia Tech and the other group was composed of globally-distributed self-directed learners (SDLs) who accessed VERA through various public websites. We use sequential pattern mining on the results in order to determine what wheel spinning looks like on the VERA platform and how to best identify it. Generalizing, we apply this research to the quitting behaviors of SDLs. Finally, modeling both user groups’ action sequences into Markov chains, we identify the stage at which an IBL platform may offer proactive feedback to the learners.
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+Impact of an Interactive Learning Environment on Understaind Modeling in Science
+-------
+Submitted to Intelligent User Interfaces 2025
+Abstract: Modeling is an important skill for students to learn across a variety of domains. Specifically in the domain of ecology, modeling
+as a skill can allow students to take a systems thinking approach and apply the scientific process to further their understanding of
+an ecological system. Students from different backgrounds, however, may have different understandings of what a model is, and
+how it can be used as part of the scientific process. As part of bridging this gap in understanding, we introduce EMSS, an online
+open-access ecology-focused Interactive Learning Environment. EMSS allows learners to construct conceptual models of ecological
+systems, which are then compiled into agent-based simulations where the learners can see the evolution of ecological systems lay out
+over time. We deployed EMSS into a classroom at Small Two-Year Technical College (STYTC) to evaluate if EMSS fulfills this learning
+need. We employ a thematic analysis of student pre-survey and post-survey responses for an in-classroom deployment of EMSS to
+determine if EMSS can assist students who may not have a strong grasp of models and modeling. The results reveal that although
+students have some misunderstanding about the definition of a model, EMSS helps broaden their understanding of how a model can
+be used in research and in their understanding of ecological relationships. This supports the hypothesis that EMSS aids in knowledge
+acquisition and modeling skill development. These findings highlight EMSS’ potential to teach scientific inquiry through interactive
+and conceptual modeling tools to students from non-traditional backgrounds who are studying conservation.
+
+[Using Comparative Machine Learning Methods to Validate Educational Content](/files/Kos_comparative.pdf)
+-------
+Submitting Soon
+Abstract: Validation as a field of study is important to the development
+of educational Interactive Learning Environments (ILEs).
+However, as ILEs become more complex, borrowing from
+fields such as agent-based modeling, simulation, and “seri-
+ous games”, the educational domain has lagged in adopting
+the rigorous validation standards typical in these fields. Tra-
+ditional methods, such as face validation by subject matter
+experts, are often criticized for their subjectivity and lack of
+thoroughness for validating pedagogical content or underly-
+ing theory. To address this, we present a machine learning-
+based methodology to validate the content and educational
+theory of ILEs in the context of complex systems. By demon-
+strating automated labeling of time-series data from EMSS,
+an ecology focused agent-based modeling and simulation
+tool, we report a success rate of 92.79% on a manually col-
+lected sample. This promising result not only validates EMSS
+but also suggests the broader applicability of our approach to
+other time series-based ILEs.
+
+
+Conference Review History
+=========
+- Intelligent User Interfaces 2025
+- EXPLAINABILITY 2024
+
+Skills (Tools/Languages/Packages)
+=======
+- Python (Flask, MORE)
+- Machine Learning (Hierarchical Clustering, Curve Fitting, Kmeans Clustering)
+- Ruby on Rails
+- AWS (EC2, ECS, Elasticbeanstalk, S3)
+- Gitlab/Github CI/CD
+- ELK (Elastic Search, Logstash, Kibana)
+- Java (Springboot, Maven)
+- SQL
+- Unity (C#)
+- Resque an Postgresql
+
+Fields
+=======
+- AI in education
+- Human Computer Interaction
+- Software Engineering
+- Development Operations and Cloud Computing
