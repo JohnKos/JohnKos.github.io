@@ -51,7 +51,8 @@ Papers
 
 [A Constructivist Framing of Wheel Spinning: Identifying Unproductive Behaviors with Sequence Analysis](https://link.springer.com/chapter/10.1007/978-3-031-63028-6_14)
 -------
-Published at Intelligent Tutoring Systems 2024
+*Published at Intelligent Tutoring Systems 2024*
+
 Abstract: Despite the increasing prevalence of inquiry-based learning (IBL) platforms, IBL research still has many open questions in constructivist contexts,
 such as when to offer help. In this paper, we explore wheel spinning in an open-domain inquiry-based modeling platform. We establish why closed-domain conceptions
 of wheel spinning do not work well in open domains, and we postulate key features of a working characterization of wheel spinning for an open-domain IBL platform. 
@@ -64,28 +65,25 @@ the stage at which an IBL platform may offer proactive feedback to the learners.
 
 Impact of an Interactive Learning Environment on Understanding Modeling in Science
 -------
-Submitted to Intelligent User Interfaces 2025
+*Submitted to Intelligent User Interfaces 2025*
+
 Abstract: Hidden until review is complete
 
 [Using Comparative Machine Learning Methods to Validate Educational Content](/files/Kos_comparative.pdf)
 -------
-Submitting Soon
+*Submitting Soon*
+
 Abstract: Validation as a field of study is important to the development
 of educational Interactive Learning Environments (ILEs).
 However, as ILEs become more complex, borrowing from
-fields such as agent-based modeling, simulation, and "seri-
-ous games", the educational domain has lagged in adopting
-the rigorous validation standards typical in these fields. Tra-
-ditional methods, such as face validation by subject matter
+fields such as agent-based modeling, simulation, and "serious games", the educational domain has lagged in adopting
+the rigorous validation standards typical in these fields. Traditional methods, such as face validation by subject matter
 experts, are often criticized for their subjectivity and lack of
-thoroughness for validating pedagogical content or underly-
-ing theory. To address this, we present a machine learning-
+thoroughness for validating pedagogical content or underlying theory. To address this, we present a machine learning-
 based methodology to validate the content and educational
-theory of ILEs in the context of complex systems. By demon-
-strating automated labeling of time-series data from EMSS,
+theory of ILEs in the context of complex systems. By demonstrating automated labeling of time-series data from EMSS,
 an ecology focused agent-based modeling and simulation
-tool, we report a success rate of 92.79% on a manually col-
-lected sample. This promising result not only validates EMSS
+tool, we report a success rate of 92.79% on a manually collected sample. This promising result not only validates EMSS
 but also suggests the broader applicability of our approach to
 other time series-based ILEs.
 
