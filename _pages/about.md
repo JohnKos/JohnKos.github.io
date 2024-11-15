@@ -45,25 +45,20 @@ Papers
 [A Constructivist Framing of Wheel Spinning: Identifying Unproductive Behaviors with Sequence Analysis](https://link.springer.com/chapter/10.1007/978-3-031-63028-6_14)
 -------
 Published at Intelligent Tutoring Systems 2024
-Abstract: Despite the increasing prevalence of inquiry-based learning (IBL) platforms, IBL research still has many open questions in constructivist contexts, such as when to offer help. In this paper, we explore wheel spinning in an open-domain inquiry-based modeling platform. We establish why closed-domain conceptions of wheel spinning do not work well in open domains, and we postulate key features of a working characterization of wheel spinning for an open-domain IBL platform. We also present a comparative quasi-experimental study of two groups of learners: While both groups worked with the same publicly available IBL platform called VERA, one group used VERA in a large graduate class at Georgia Tech and the other group was composed of globally-distributed self-directed learners (SDLs) who accessed VERA through various public websites. We use sequential pattern mining on the results in order to determine what wheel spinning looks like on the VERA platform and how to best identify it. Generalizing, we apply this research to the quitting behaviors of SDLs. Finally, modeling both user groups’ action sequences into Markov chains, we identify the stage at which an IBL platform may offer proactive feedback to the learners.
+Abstract: Despite the increasing prevalence of inquiry-based learning (IBL) platforms, IBL research still has many open questions in constructivist contexts,
+such as when to offer help. In this paper, we explore wheel spinning in an open-domain inquiry-based modeling platform. We establish why closed-domain conceptions
+of wheel spinning do not work well in open domains, and we postulate key features of a working characterization of wheel spinning for an open-domain IBL platform. 
+We also present a comparative quasi-experimental study of two groups of learners: While both groups worked with the same publicly available IBL platform called VERA, 
+one group used VERA in a large graduate class at Georgia Tech and the other group was composed of globally-distributed self-directed learners (SDLs) who accessed VERA 
+through various public websites. We use sequential pattern mining on the results in order to determine what wheel spinning looks like on the VERA platform and how to best 
+identify it. Generalizing, we apply this research to the quitting behaviors of SDLs. Finally, modeling both user groups' action sequences into Markov chains, we identify
+the stage at which an IBL platform may offer proactive feedback to the learners.
 
 
 Impact of an Interactive Learning Environment on Understaind Modeling in Science
 -------
 Submitted to Intelligent User Interfaces 2025
-Abstract: Modeling is an important skill for students to learn across a variety of domains. Specifically in the domain of ecology, modeling
-as a skill can allow students to take a systems thinking approach and apply the scientific process to further their understanding of
-an ecological system. Students from different backgrounds, however, may have different understandings of what a model is, and
-how it can be used as part of the scientific process. As part of bridging this gap in understanding, we introduce EMSS, an online
-open-access ecology-focused Interactive Learning Environment. EMSS allows learners to construct conceptual models of ecological
-systems, which are then compiled into agent-based simulations where the learners can see the evolution of ecological systems lay out
-over time. We deployed EMSS into a classroom at Small Two-Year Technical College (STYTC) to evaluate if EMSS fulfills this learning
-need. We employ a thematic analysis of student pre-survey and post-survey responses for an in-classroom deployment of EMSS to
-determine if EMSS can assist students who may not have a strong grasp of models and modeling. The results reveal that although
-students have some misunderstanding about the definition of a model, EMSS helps broaden their understanding of how a model can
-be used in research and in their understanding of ecological relationships. This supports the hypothesis that EMSS aids in knowledge
-acquisition and modeling skill development. These findings highlight EMSS’ potential to teach scientific inquiry through interactive
-and conceptual modeling tools to students from non-traditional backgrounds who are studying conservation.
+Abstract: Hidden until review is complete
 
 [Using Comparative Machine Learning Methods to Validate Educational Content](/files/Kos_comparative.pdf)
 -------
@@ -71,8 +66,8 @@ Submitting Soon
 Abstract: Validation as a field of study is important to the development
 of educational Interactive Learning Environments (ILEs).
 However, as ILEs become more complex, borrowing from
-fields such as agent-based modeling, simulation, and “seri-
-ous games”, the educational domain has lagged in adopting
+fields such as agent-based modeling, simulation, and "seri-
+ous games", the educational domain has lagged in adopting
 the rigorous validation standards typical in these fields. Tra-
 ditional methods, such as face validation by subject matter
 experts, are often criticized for their subjectivity and lack of
