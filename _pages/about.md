@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "CV for John Kos"
+title: "CV"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,8 +12,13 @@ A downloadable version of my CV can be found [here](/files/John_Kos_Resume.pdf)
 Summary
 ========
 
+Hi, I am a second year PhD student at the Design Intelligence Lab at Georgia Tech  working under Professor [Ashok Goel](link him). I am studying Computer Science in the 
+school of Interactive Computing. My research lies at the intersection of AI and education, where I try to build a holistic understanding of pedagogy and figuring out the
+unique challenges that come with teaching people to solve open ended problems. This takes the form of Personalized Learning and AI explanation.
+
 Education
 ======
+
 Current
 ------
 - PhD in Computer Science @ Georgia Tech, Atlanta, GA
@@ -25,6 +30,7 @@ Past
 
 Work Experience
 =======
+
 Graduate Student Researcher - Design Intelligence Lab
 -------
 - Managed a team of 10+ student researchers to code, review, and deploy personalized coaches for an interactive learning environment
@@ -42,6 +48,7 @@ Junior Development Operations - Power Auctions
 
 Papers
 =======
+
 [A Constructivist Framing of Wheel Spinning: Identifying Unproductive Behaviors with Sequence Analysis](https://link.springer.com/chapter/10.1007/978-3-031-63028-6_14)
 -------
 Published at Intelligent Tutoring Systems 2024
@@ -55,7 +62,7 @@ identify it. Generalizing, we apply this research to the quitting behaviors of S
 the stage at which an IBL platform may offer proactive feedback to the learners.
 
 
-Impact of an Interactive Learning Environment on Understaind Modeling in Science
+Impact of an Interactive Learning Environment on Understanding Modeling in Science
 -------
 Submitted to Intelligent User Interfaces 2025
 Abstract: Hidden until review is complete
