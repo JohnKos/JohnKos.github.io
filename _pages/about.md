@@ -43,7 +43,7 @@ Junior Development Operations - Power Auctions
 - Developed an AWS environment used in $4,000,000,000 Federal Government auction
 - Made 200+ commits to a Ruby on Rails backend that used AWS and docker for automated software deployment
 - Set up CI/CD pipeline in Gitlab to automate QA testing scripts
-- Assembled ELK stack to manage 2,000,000 logs from development and production environments
+- Assembled ELK stack to manage 500,000 logs from development and production environments
 
 
 Papers (Selection)
