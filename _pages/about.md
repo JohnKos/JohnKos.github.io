@@ -46,7 +46,7 @@ Junior Development Operations - Power Auctions
 - Assembled ELK stack to manage 2,000,000 logs from development and production environments
 
 
-Papers
+Papers (Selection)
 =======
 
 [A Constructivist Framing of Wheel Spinning: Identifying Unproductive Behaviors with Sequence Analysis](https://link.springer.com/chapter/10.1007/978-3-031-63028-6_14)
