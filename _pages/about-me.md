@@ -1,10 +1,9 @@
 ---
-permalink: /aboutme
-title: "CV"
+permalink: /about-me.html
+title: "About Me"
 author_profile: true
 redirect_from: 
-  - /aboutme/
-  - /aboutme.html
+  - /about-me/
 ---
 
 
