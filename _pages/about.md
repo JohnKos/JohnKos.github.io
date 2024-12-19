@@ -12,8 +12,8 @@ A downloadable version of my CV can be found [here](/files/John_Kos_Resume.pdf)
 Summary
 ========
 
-Hi, I am a second year PhD student at the Design Intelligence Lab at Georgia Tech  working under Professor [Ashok Goel](link him). I am studying Computer Science in the 
-school of Interactive Computing. My research lies at the intersection of AI and education, where I try to build a holistic understanding of pedagogy and figuring out the
+Hi, I am a second year PhD student at the Design Intelligence Lab at Georgia Tech  working under Professor [Ashok Goel](https://www.cc.gatech.edu/people/ashok-goel). I am studying Computer Science in the 
+school of Interactive Computing. My research lies at the intersection of AI and education, where I try to build a holistic understanding of pedagogy and figure out the
 unique challenges that come with teaching people to solve open ended problems. This takes the form of Personalized Learning and AI explanation.
 
 Education
@@ -62,13 +62,6 @@ through various public websites. We use sequential pattern mining on the results
 identify it. Generalizing, we apply this research to the quitting behaviors of SDLs. Finally, modeling both user groups' action sequences into Markov chains, we identify
 the stage at which an IBL platform may offer proactive feedback to the learners.
 
-
-Impact of an Interactive Learning Environment on Understanding Modeling in Science
--------
-*Submitted to Intelligent User Interfaces 2025*
-
-Abstract: Hidden until review is complete
-
 [Using Comparative Machine Learning Methods to Validate Educational Content](/files/Kos_comparative.pdf)
 -------
 *Submitting Soon*
@@ -87,9 +80,14 @@ tool, we report a success rate of 92.79% on a manually collected sample. This pr
 but also suggests the broader applicability of our approach to
 other time series-based ILEs.
 
+Accepted Workshop Submissions
+=========
+- A Personalized AI Coach to Assist in Self-Directed Learning at AAAI-2025 Workshop on Innovation and Responsibility in AI-Supported Education
+- Using Comparative Machine Learning Methods to Validate Educational Content at AAAI-2025 Deployable AI Workshop 
 
 Conference Review History
 =========
+- AAAI Deployable AI Workshop
 - Intelligent User Interfaces 2025
 - EXPLAINABILITY 2024
 
